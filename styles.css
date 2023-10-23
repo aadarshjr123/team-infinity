@@ -43,7 +43,7 @@ header.hero {
 }
 
 .navbar-links a:hover {
-  color: #007bff;
+  color: #001f3f;
 }
 
 .hero-content h1 {
@@ -116,18 +116,18 @@ header.hero {
 }
 
 .contact form button {
-  background-color: #007bff;
+  background-color: #001f3f;
   color: #fff;
   border: none;
   padding: 12px 24px;
-  border-radius: 5px;
-  font-size: 24px;
+  border-radius: 10px;
+  font-size: 20px;
   cursor: pointer;
   transition: background-color 0.3s;
 }
 
 .contact form button:hover {
-  background-color: #0056b3;
+  background-color: #005fc5;
 }
 
 /* Footer Styles */
